@@ -189,7 +189,7 @@ int main() {
   }
   arquivo.close();
 
-  // Libera os exércitos alocados
+  // Libera os exércitos alocados.
   for (Exercito *exercito : exercitos) {
     delete exercito;
   }
