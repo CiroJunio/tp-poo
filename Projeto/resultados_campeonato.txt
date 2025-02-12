@@ -1,0 +1,13 @@
+Batalha entre A e B em 12/02/2025
+Batalha entre A e C em 12/02/2025
+Batalha entre B e C em 12/02/2025
+
+Classificação Final em 12/02/2025:
+1º Lugar: A - Vitórias: 2, Empates: 0, Derrotas: 2
+2º Lugar: B - Vitórias: 3, Empates: 0, Derrotas: 1
+3º Lugar: C - Vitórias: 1, Empates: 0, Derrotas: 3
+
+Top 3 Unidades Mais Destrutivas:
+1º Lugar: Unidade 5 (Aeronave) do exército A (Destruições = 4)
+2º Lugar: Unidade 2 (Infantaria) do exército C (Destruições = 3)
+3º Lugar: Unidade 3 (Veiculo) do exército B (Destruições = 3)
